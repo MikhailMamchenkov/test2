@@ -8,14 +8,4 @@ public abstract class Figure {
         this.b = b;
     }
 
-
-   public abstract double area();
-
-    public double getA() {
-        return a;
-    }
-
-    public double getB() {
-        return b;
-    }
 }
